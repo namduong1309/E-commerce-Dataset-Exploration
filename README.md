@@ -1,4 +1,4 @@
-# E-commerce-Dataset-Exploration
+# E-commerce Dataset Exploration
 ## Link project
 https://console.cloud.google.com/bigquery?sq=829696366099:7cdf02980db4455aaa363bf5d1f58db6
 ## Introduction
